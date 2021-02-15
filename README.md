@@ -1,2 +1,2 @@
 # java-script-30​
- 30 Day Challenge Vanilla Javascript -Wes Bos-
+ 30 Day Challenge Vanilla Javascript -with Wes Bos-
