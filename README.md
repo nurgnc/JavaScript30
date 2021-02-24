@@ -1,4 +1,4 @@
-# 30 Day Vanilla Javascript Coding Challenge  -with Wes Bos 
+# 30 Day Vanilla JavaScript Coding Challenge  -with Wes Bos- 
 Link: https://javascript30.com/
 
 # Day 1: Drum Kit
