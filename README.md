@@ -25,3 +25,8 @@ JavaScript array exercises were done on the console.
 Clicking on each photo expands and completes the text from above and below.
 
 ![](05-ImageGallery/05.jpg)
+
+# Day 6: Type Ahead
+It aims to search through the information I get through an API.
+
+![](06-TypeAhead/06.jpg)
