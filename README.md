@@ -30,3 +30,7 @@ Clicking on each photo expands and completes the text from above and below.
 It aims to search through the information I get through an API.
 
 ![](06-TypeAhead/06.jpg)
+
+# Day 7: Array Cardio-2
+
+.some(), .every(), .find() and [...spreads]
