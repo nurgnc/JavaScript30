@@ -34,3 +34,7 @@ It aims to search through the information I get through an API.
 # Day 7: Array Cardio-2
 
 .some(), .every(), .find() and [...spreads]
+
+# Day 8: Fun With HTML Canvas
+
+![](08-HTMLCanvas/08.jpg)
