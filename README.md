@@ -36,5 +36,6 @@ It aims to search through the information I get through an API.
 .some(), .every(), .find() and [...spreads]
 
 # Day 8: Fun With HTML Canvas
+This app makes you draw on a canvas. HTML Canvas was used in the app.
 
 ![](08-HTMLCanvas/08.jpg)
